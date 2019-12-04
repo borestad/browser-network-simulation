@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node server"
+  },
+  "prettier": {
+    "semi": false
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
